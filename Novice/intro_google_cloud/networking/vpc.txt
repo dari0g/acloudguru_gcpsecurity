@@ -1,0 +1,9 @@
+Virtual Private Network
+- Virtual version ofa physical network, implemented inside of Google's production network
+- VPC Routes and firewall rule can be considered global resources
+    - Not associated with any region or zone
+    - On the other hand subnets are associated with regions and/or zones
+
+Data Flow
+- Internet flows through thr routes into the resources within a subnet
+    - This traffic can be controlled by firewall rules
