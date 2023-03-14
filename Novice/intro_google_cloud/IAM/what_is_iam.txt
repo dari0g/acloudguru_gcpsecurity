@@ -1,0 +1,8 @@
+Identity and access management
+- Allow users to see and access only what they should
+- Prevents users from unauthorized access to information and from making unauthorized changes
+- Allows detailed document of any sequence of activities within your account
+
+Navigating through UI
+- Create/edit users in the main IAM tab
+- Create roles within the roles tab
